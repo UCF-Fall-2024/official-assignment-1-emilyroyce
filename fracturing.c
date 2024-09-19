@@ -1,3 +1,14 @@
+//********************************************************
+// fracturing.c
+// Author: Emily Royce
+// Date: 9/20/2024
+// Class: COP 3223 Professor Parra
+// Purpose: This program is created to find the distance, perimeter, area, width, and height created by the points entered by the user
+// Inputs: The user enters the values for x1, y1, x2, and y2.
+// Output: The distance, area, perimeter, width and height of the shape formed by the points
+//********************************************************
+
+
 #include <stdio.h>
 #include <math.h> 
 #define PI 3.14159
